@@ -16,7 +16,7 @@ I'm Elías Martín a Full Stack Web Developer. Welcome to my GitHub, where you c
 
 ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) ![Expressjs Badge](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B) ![Render Logo](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&labelColor=black&logo=render&logoColor=46E3B7)
 
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/react-native-programmer-7464458-6109661.png?f=webp" min-width="300px" max-width="300px" width="300px" align="right" alt="Programmer illustration">
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/react-native-programmer-7464458-6109661.png?f=webp" min-width="340px" max-width="340px" width="340px" align="right" alt="Programmer illustration">
 
 ### Testing
 
