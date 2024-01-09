@@ -12,7 +12,7 @@ I'm Elías Martín a Full Stack Web Developer. Welcome to my GitHub, where you c
 
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) ![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc) ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26) ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6) ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699) ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB) ![React-Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88) ![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Vite Badge](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&labelColor=black&logo=vite&logoColor=FFD62E)
 
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/react-native-programmer-7464458-6109661.png?f=webp" min-width="400px" max-width="400px" width="400px" align="right" alt="Programmer illustration">
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/react-native-programmer-7464458-6109661.png?f=webp" min-width="300px" max-width="300px" width="300px" align="right" alt="Programmer illustration">
 
 ### Back-End
 
