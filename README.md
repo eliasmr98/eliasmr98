@@ -6,6 +6,13 @@ I'm Elías Martín a Full Stack Web Developer. Welcome to my GitHub, where you c
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elías-martín-rivas-79954b1b3/) [![Mail Badge](https://img.shields.io/badge/-GMAIL-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:eliasmartinrivas@gmail.com)
 
+## What I currently Do
+
+- 🔭 I am currently studying the Next.js framework and SQL to solidify my skills as a full-stack developer and explore new technologies
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 📫 How to reach me: eliasmartinrivas@gmail.com
+- ⚡ Fun fact: I am deeply passionate about everything related to the Dark Souls universe and I'm also a Brazilian Jiu-Jitsu practitioner.
+
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmr98&layout=donut)](https://github.com/anuraghazra/github-readme-stats) ![eliasmr98's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasmr98&rank_icon=github&show=prs_merged)
