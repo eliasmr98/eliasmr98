@@ -4,7 +4,7 @@ I'm Elías Martín a Full Stack Web Developer. Welcome to my GitHub, where you c
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elías-martín-rivas-79954b1b3/) [![Mail Badge](https://img.shields.io/badge/-GMAIL-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:eliasmartinrivas@gmail.com@)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elías-martín-rivas-79954b1b3/) [![Mail Badge](https://img.shields.io/badge/-GMAIL-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:eliasmartinrivas@gmail.com)
 
 ## Top technologies
 
