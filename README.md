@@ -8,7 +8,7 @@ I'm Elías Martín a Full Stack Web Developer. Welcome to my GitHub, where you c
 
 ## What I currently Do
 
-- 🔭 I am currently studying the Next.js framework and SQL to solidify my skills as a full-stack developer and explore new technologies
+- 🔭 I am currently studying the Next.js framework and SQL to solidify my skills as a full-stack developer and explore new technologies.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: eliasmartinrivas@gmail.com
 - ⚡ Fun fact: I am deeply passionate about everything related to the Dark Souls universe and I'm also a Brazilian Jiu-Jitsu practitioner.
