@@ -39,4 +39,4 @@ I'm Elías Martín a Full Stack Web Developer. Welcome to my GitHub, where you c
 
 ### Design
 
-![Figma Badge](https://img.shields.io/badge/Figma-137A63?style=for-the-badge&labelColor=black&logo=figma&logoColor=137A63) ![GIMP Badge](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&labelColor=black&logo=gimp&logoColor=5C5543)
+![Figma Badge](https://img.shields.io/badge/Figma-137A63?style=for-the-badge&labelColor=black&logo=figma&logoColor=137A63) ![GIMP Badge](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&labelColor=black&logo=gimp&logoColor=5C5543) ![Canva Badge](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&labelColor=black&logo=canva&logoColor=#00C4CC)
